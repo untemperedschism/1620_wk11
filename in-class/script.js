@@ -1,0 +1,1 @@
+console.log("If you see this message your script tag works")

@@ -1,0 +1,23 @@
+.square {
+  width: 500px;
+  height: 500px;
+  padding: 20px;
+  font-size: 2rem;
+  font-family: monospace;
+}
+
+.black {
+  color: powderblue;
+  background-color: black;
+}
+
+.blue {
+  color: black;
+  background-color: cadetblue;
+}
+
+.new-content {
+  width: 500px;
+  height: 200px;
+  background-color: cornflowerblue;
+}
